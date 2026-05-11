@@ -1,0 +1,3 @@
+Let's just say they hadn't been keeping up with their loan repayments...
+
+https://github.com/EpochOnGit/GWYF.NoNPCs
