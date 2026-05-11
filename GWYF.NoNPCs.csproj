@@ -5,6 +5,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>GWYF.NoNPCs</AssemblyName>
+    <Version>1.0.1</Version>
     <RootNamespace>GWYF.NoNPCs</RootNamespace>
     <OutputPath>$(MSBuildProjectDirectory)\build</OutputPath>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
@@ -41,6 +42,9 @@
 
   <ItemGroup>
     <None Update="README.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="thunderstore\CHANGELOG.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="thunderstore\icon.png">
