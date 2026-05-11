@@ -32,8 +32,8 @@ namespace GWYF.NoNPCs
 
     public static class MyPluginInfo
     {
-        public const string PLUGIN_GUID = "GWYF.Epoch.NoMoreNPCs";
-        public const string PLUGIN_NAME = "No More NPCs!";
+        public const string PLUGIN_GUID = "GWYF.Epoch.NoNPCs";
+        public const string PLUGIN_NAME = "No NPCs!";
         public const string PLUGIN_VERSION = "1.0.0";
     }
 }

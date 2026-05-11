@@ -1,7 +1,0 @@
-{
-  "name": "No NPCs!",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/Grumpy-Gordon/GWYF.NoNPCs",
-  "description": "Removes all NPCs from the game, no more distractions while you gamba",
-  "dependencies": ["BepInEx-BepInExPack-5.4.2305"]
-}
